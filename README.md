@@ -22,7 +22,8 @@ Everything in this game was made by me except for the music, which I asked a fri
 ## Things I Learned
 
 First and foremost, 
-** I learned how to release a game with this project, and that its very difficult. **
+
+**I learned how to release a game with this project, and that its very difficult.**
 
 Most of the time taken to completele this game was with debugging and and integrating external services,
 but in the end, what needed to get done got done.
